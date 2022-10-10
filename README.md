@@ -14,5 +14,7 @@
 将所有文件整合一起，实现项目落地。
 ### 运行介绍
 创建一个虚拟环境后运行下行代码安装所用包
+
 `python -m pip install -r packages.txt`
+
 后可运行main.py
