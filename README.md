@@ -1,4 +1,4 @@
-# paddlehub-mask-detecyion
+# paddlehub-mask-detection
 基于paddlehub中模型落地口罩检测项目
 ## 该项目中所用模型为paddlehub开源口罩检测模型pyramidbox_lite_mobile_mask
 ## 文件介绍
